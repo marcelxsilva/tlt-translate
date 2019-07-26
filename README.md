@@ -34,7 +34,7 @@ Qualquer dúvida é só da uma olhada no código, ou:
 ## APi Key
 
 Utilizei a API do <a href="https://tech.yandex.com/translate/doc/dg/concepts/about-docpage/" target="_blank">Yandex Translate API</a>
-Então, é só acessar o site criar uma conta e gerar sua Key e inserir ela no arquivo <code> index.js </code>.
+Então, é só acessar o site criar uma conta e gerar sua Key e inserir ela no arquivo <code> tlt.js </code>.
 
 ### Configurar a ferramenta para funcionar via terminal no Linux
 
@@ -42,8 +42,8 @@ Então, é só acessar o site criar uma conta e gerar sua Key e inserir ela no a
 Resolvi ser mais simples possivel:<br>
 
 Coloque a pasta que contem o script em um local que voçe não apagaria ele acidentalmente, no meu caso eu coloquei no diretório:<br>
-altere o nome da pasta que contem todo o script para <code>tlt<code>
-Diretório onde ficara a pasta <code>tlt<code> do projeto.
+altere o nome da pasta que contem todo o script para <code>tlt</code>
+Diretório onde ficara a pasta <code>tlt</code> do projeto.
 <pre>/usr</pre>
 
 É claro, instale as dependencias do script digitando:
