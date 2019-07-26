@@ -1,0 +1,26 @@
+{
+  "name": "tlt",
+  "version": "0.0.1",
+  "description": "TLT - Translate",
+  "main": "tlt.js",
+  "keywords": [
+    "translate"
+  ],
+  "author": "Marcelo Silva <maarcelomonteiro@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelxsilva/tlt-translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcelxsilva/tlt-translate/issues"
+  },
+  "homepage": "https:/marcelxsilva.github.io/tlt-translate",
+  "preferGlobal": true,
+  "bin": {
+    "tlt": "tlt.js"
+  },
+  "dependencies": {
+    "yandex-translate": "^2.1.3"
+  }
+}
