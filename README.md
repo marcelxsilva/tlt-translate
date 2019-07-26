@@ -64,7 +64,7 @@ De ao arquivo <code>tlt</code> Permissão de execução:
      chmod +x tlt
 </pre>
 
-Mova o arquivo <code>tlt</code> para o diretório <code>/bin</code>
+Copie o arquivo <code>tlt</code> para o diretório <code>/bin</code>
 
 <pre>
     sudo cp tlt /bin
